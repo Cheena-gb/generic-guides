@@ -10,3 +10,7 @@
 
 ## ケース設計
 [設計ガイド](docs/case-design.md)
+
+## 組み立て時のパーツ選定
+[キースイッチ](docs/switches.md)
+[キーキャップ](docs/caps.md)
