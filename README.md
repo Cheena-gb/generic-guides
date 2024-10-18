@@ -12,5 +12,9 @@
 [設計ガイド](docs/case-design.md)
 
 ## 組み立て時のパーツ選定
-[キースイッチ](docs/switches.md)  
+### キースイッチ
+[基礎編](docs/keyswitch.md)  
+[改造辺](docs/keyswich-custom.md)
+[キースイッチの応用的組み合わせ](docs/keyswitch-select.md)
+### キーキャップ
 [キーキャップ](docs/caps.md)
